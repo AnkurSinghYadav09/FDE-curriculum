@@ -33,7 +33,7 @@ Source of truth for modules, durations and capstone increments: the program syll
 
 | Module | Duration (concept / hands-on) | Capstone increment | Script |
 | --- | --- | --- | --- |
-| 11. Logging, Log File Analysis and Observability | 6 h (2.5 / 3.5) | CI-11: logging standard, centralised logs, traces, dashboards, alerts | Not yet written |
+| 11. Logging, Log File Analysis and Observability | 6 h (2.5 / 3.5) | CI-11: logging standard implemented, centralised logs, end-to-end traces, dashboards, alerts and a log analysis report | [Module-11](Phase-4/Module-11-Logging-and-Observability.md) |
 | 12. Application Security and DevSecOps | 6 h (2.5 / 3.5) | CI-12: SSO with MFA, RBAC, secrets via managed identity, security scans in pipeline | Not yet written |
 | 13. Testing and Non-Functional Testing | 7 h (3 / 4) | CI-13: functional suites plus load, stress, soak, resilience and accessibility reports | Not yet written |
 
