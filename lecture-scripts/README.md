@@ -35,7 +35,7 @@ Source of truth for modules, durations and capstone increments: the program syll
 | --- | --- | --- | --- |
 | 11. Logging, Log File Analysis and Observability | 6 h (2.5 / 3.5) | CI-11: logging standard implemented, centralised logs, end-to-end traces, dashboards, alerts and a log analysis report | [Module-11](Phase-4/Module-11-Logging-and-Observability.md) |
 | 12. Application Security and DevSecOps | 6 h (2.5 / 3.5) | CI-12: SSO with MFA, RBAC and policy checks, secrets via managed identity, security logging, DevSecOps pipeline with no critical or high findings | [Module-12](Phase-4/Module-12-Application-Security-DevSecOps.md) |
-| 13. Testing and Non-Functional Testing | 7 h (3 / 4) | CI-13: functional suites plus load, stress, soak, resilience and accessibility reports | Not yet written |
+| 13. Testing and Non-Functional Testing | 7 h (3 / 4) | CI-13: functional suites on the quality gate, plus load, stress, soak, resilience, recovery and accessibility reports against every NFR | [Module-13](Phase-4/Module-13-Testing-and-Non-Functional-Testing.md) |
 
 ## Phase 5: Deploy, operate and support (Focus area 4)
 
