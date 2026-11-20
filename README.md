@@ -4,4 +4,4 @@ Instructor-ready lecture scripts for the FDE Full-Stack Engineering Program: 16 
 
 Start at the index: [lecture-scripts/README.md](lecture-scripts/README.md).
 
-Status: Modules 1–13 written (Phases 1–4); Modules 14–16 (Phase 5) to follow.
+Status: all 16 modules written (Phases 1–5).

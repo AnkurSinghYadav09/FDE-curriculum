@@ -41,9 +41,9 @@ Source of truth for modules, durations and capstone increments: the program syll
 
 | Module | Duration (concept / hands-on) | Capstone increment | Script |
 | --- | --- | --- | --- |
-| 14. CI/CD, Containers and Cloud Deployment | 7 h (2.5 / 4.5) | CI-14: infrastructure as code, Helm and Functions deployment, environment promotion | Not yet written |
-| 15. Production Support and Operations | 4 h (1.5 / 2.5) | CI-15: readiness review, runbook, incident drill, support handover pack | Not yet written |
-| 16. End-to-End Capstone: Release and Presentation | 9 h (1.5 / 7.5) | v1.0 production release, final demo and presentation | Not yet written |
+| 14. CI/CD, Containers and Cloud Deployment | 7 h (2.5 / 4.5) | CI-14: infrastructure as code, full pipeline with environment promotion, staging deployment, rollback proven | [Module-14](Phase-5/Module-14-CICD-Containers-Cloud-Deployment.md) |
+| 15. Production Support and Operations | 4 h (1.5 / 2.5) | CI-15: readiness review sign-off, runbook, incident and postmortem records, support handover pack | [Module-15](Phase-5/Module-15-Production-Support-and-Operations.md) |
+| 16. End-to-End Capstone: Release and Presentation | 9 h (1.5 / 7.5) | v1.0 production release, final demo and presentation | [Module-16](Phase-5/Module-16-End-to-End-Capstone-Release.md) |
 
 Capstone increments above are abbreviated from the syllabus; each script's CI review checklist holds the full increment.
 
@@ -57,6 +57,9 @@ The scripts follow the Meridian case established in Modules 1–5, which differs
 | Audit retention | 7 years | 8 years (NFR-AUD-01) |
 | Approval rules | Manager, then finance above a threshold | ₹50,000 line manager; to ₹5 lakh + department head; above + CFO |
 | Architecture | Services behind a gateway | Modular monolith (ADR-0003) plus a Catalogue edge service and YARP gateway (ADR-0007, Module 7) |
+| Hosting | Kubernetes (AKS or kind) with Helm | Azure Container Apps in the cloud (ADR-0012 supersedes App Service, Module 14); Kubernetes and Helm learned on local kind |
+| Load test | 300 concurrent users; 3× month-end | 140 (NFR-PERF-01), 300 as headroom, spike to 420 (3 × 140) (Module 13) |
+| v1.0 scope | All core features, including send-back | Agreed with the sponsor in Module 16; POs, goods receipt, invoices and send-back deferred to v1.1 if not built |
 
 ## ADR register (as introduced in the scripts)
 
@@ -71,3 +74,4 @@ The scripts follow the Meridian case established in Modules 1–5, which differs
 | 0009 | Shared state for scale-out: caches, SignalR backplane, keys (homework) | 9 |
 | 0010 | Server versus serverless, per workload (Lab 4) | 10 |
 | 0011 | Identity and access: Entra ID, BFF tokens, roles, managed identity (homework) | 12 |
+| 0012 | Azure Container Apps hosting, superseding ADR-0004 (homework) | 14 |
