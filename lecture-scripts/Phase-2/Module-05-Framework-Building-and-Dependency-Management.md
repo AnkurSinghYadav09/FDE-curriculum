@@ -1,6 +1,6 @@
 # Lecture Script: Framework Building and Dependency Management
 
-> **Instructor reference.** Phase 2: Decide and build (Focus area 2), Module 5 | Duration: 6 hours (2.5 h concepts and demos, 3.5 h hands-on) | Previous script: [Module 4 — Technology Selection and Solution Architecture](Module-04-Technology-Selection-and-Architecture.md)
+> **Instructor reference.** Phase 2: Decide and build (Focus area 2), Module 5 | Duration: 6 hours (2.5 h concepts and demos, 3.5 h hands-on), run as Day 6 (3 h, Segments 1–8, 3 h 03 min of content) and Day 7 (3 h, Segments 9–15, 2 h 57 min of content) | Previous script: [Module 4 — Technology Selection and Solution Architecture](Module-04-Technology-Selection-and-Architecture.md)
 
 ## Session overview
 
@@ -39,7 +39,7 @@
 | SEGMENT 14: Lab 5 — RAID Log and Dependency Board | 30 min | 5:37 | Hands-on |
 | SEGMENT 15: CI-5 Review and Wrap-Up | 23 min | 6:00 | Hands-on + close |
 
-Concepts and demos: 150 min (about 42%, including the 8-minute close). Labs and capstone: 210 min (about 58%), as the module specifies. Breaks are not counted.
+Concepts and demos: 150 min (about 42%, including the 8-minute close). Labs and capstone: 210 min (about 58%), as the module specifies. Breaks are not counted. Day 6: Segments 1–8 = 183 min; Day 7: Segments 9–15 = 177 min (the syllabus plans 180 + 180; the split is at the lunch break, the nearest segment boundary).
 
 ## SEGMENT 1: Opening — Why a Thin Internal Framework (15 min)
 

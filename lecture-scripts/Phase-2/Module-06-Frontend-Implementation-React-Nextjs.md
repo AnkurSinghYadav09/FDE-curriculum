@@ -1,6 +1,6 @@
 # Lecture Script: Frontend Implementation: React and Next.js
 
-> **Instructor reference.** Phase 2: Decide and build (Focus area 2), Module 6 | Duration: 8 hours (3 h concepts and demos, 5 h hands-on) | Previous script: [Module 5 — Framework Building and Dependency Management](Module-05-Framework-Building-and-Dependency-Management.md)
+> **Instructor reference.** Phase 2: Decide and build (Focus area 2), Module 6 | Duration: 8 hours (3 h concepts and demos, 5 h hands-on), run as Day 7 (1 h, Segments 1–2, 50 min of content), Day 8 (4 h, Segments 3–8, 4 h 05 min of content) and Day 9 (3 h, Segments 9–14, 3 h 05 min of content) | Previous script: [Module 5 — Framework Building and Dependency Management](Module-05-Framework-Building-and-Dependency-Management.md)
 
 ## Session overview
 
@@ -41,7 +41,7 @@
 | SEGMENT 13: Frontend Performance and Core Web Vitals | 15 min | 7:25 | Concept + demo |
 | SEGMENT 14: CI-6 Review and Wrap-Up | 35 min | 8:00 | Hands-on + close |
 
-Concepts and demos: 25 + 25 + 20 + 20 + 35 + 15 + 15 + 15 + 10 (close) = 180 min (37.5%). Labs and CI-6 review: 55 + 55 + 60 + 55 + 50 + 25 = 300 min (62.5%). Total 480 min = 8 h, matching the module's 3 h / 5 h split. Breaks (60 min) are not counted.
+Concepts and demos: 25 + 25 + 20 + 20 + 35 + 15 + 15 + 15 + 10 (close) = 180 min (37.5%). Labs and CI-6 review: 55 + 55 + 60 + 55 + 50 + 25 = 300 min (62.5%). Total 480 min = 8 h, matching the module's 3 h / 5 h split. Breaks (60 min) are not counted. Day 7: Segments 1–2 = 50 min; Day 8: Segments 3–8 = 245 min; Day 9: Segments 9–14 = 185 min (the syllabus plans 60 + 240 + 180; the splits are at the nearest segment boundaries).
 
 ## SEGMENT 1: Opening — Typed Components and Composition (25 min)
 

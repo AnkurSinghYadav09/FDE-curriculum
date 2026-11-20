@@ -1,6 +1,6 @@
 # Lecture Script: Backend Implementation: C#, .NET and REST APIs
 
-> **Instructor reference.** Phase 2: Decide and build (Focus area 2), Module 7 | Duration: 9 hours (4 h concepts and demos, 5 h hands-on) | Previous script: [Module 6 — Frontend Implementation: React and Next.js](Module-06-Frontend-Implementation-React-Nextjs.md)
+> **Instructor reference.** Phase 2: Decide and build (Focus area 2), Module 7 | Duration: 9 hours (4 h concepts and demos, 5 h hands-on), run as Day 9 (1 h, Segment 1, 35 min of content), Day 10 (4 h, Segments 2–8, 4 h 05 min of content) and Day 11 (4 h, Segments 9–14, 4 h 20 min of content) | Previous script: [Module 6 — Frontend Implementation: React and Next.js](Module-06-Frontend-Implementation-React-Nextjs.md)
 
 ## Session overview
 
@@ -44,7 +44,7 @@
 | SEGMENT 13: Lab 4 — Gateway, Resilience and a Chaos Test | 75 min | 8:20 | Hands-on |
 | SEGMENT 14: CI-7 Review and Wrap-Up | 40 min | 9:00 | Hands-on + close |
 
-Concepts and demos: 35 + 25 + 30 + 25 + 30 + 30 + 25 + 30 + 10 (close) = 240 min (44%). Labs and CI-7 review: 55 + 50 + 40 + 50 + 75 + 30 = 300 min (56%). Total 540 min = 9 h, matching the module's 4 h / 5 h split. Breaks (70 min) are not counted.
+Concepts and demos: 35 + 25 + 30 + 25 + 30 + 30 + 25 + 30 + 10 (close) = 240 min (44%). Labs and CI-7 review: 55 + 50 + 40 + 50 + 75 + 30 = 300 min (56%). Total 540 min = 9 h, matching the module's 4 h / 5 h split. Breaks (70 min) are not counted. Day 9: Segment 1 = 35 min; Day 10: Segments 2–8 = 245 min; Day 11: Segments 9–14 = 260 min (the syllabus plans 60 + 240 + 240; the splits follow its daily outputs: domain model on Day 10, APIs behind the gateway on Day 11).
 
 ## SEGMENT 1: Opening — Modern C# for a Domain Model (35 min)
 

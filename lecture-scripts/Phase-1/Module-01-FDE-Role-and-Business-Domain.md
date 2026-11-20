@@ -1,6 +1,6 @@
 # Lecture Script: The FDE Role and Business Domain Understanding
 
-> **Instructor reference.** Phase 1 (Focus area 1), Module 1 | Duration: 5 hours (2 h concepts and demos, 3 h hands-on) | Previous script: none (first module) | Companion plan: separate document, not in this repo
+> **Instructor reference.** Phase 1: Business domain, requirements and guardrails (Focus area 1), Module 1 | Duration: 5 hours (2 h concepts and demos, 3 h hands-on), run as Day 1 (4 h, Segments 1–8) and Day 2 (1 h, Segments 9–10) | Previous script: none (first module) | Companion plan: separate document, not in this repo
 
 ## Session overview
 
@@ -31,7 +31,7 @@
 | SEGMENT 9: Lab 4 — Glossary and User Profile (AI-assisted) | 40 min | 4:40 | Hands-on |
 | SEGMENT 10: CI-1 Review, Summary and Wrap-Up | 20 min | 5:00 | Hands-on + close |
 
-Concepts and demos: 120 min (40%). Labs and capstone: 180 min (60%). Breaks are not counted.
+Concepts and demos: 120 min (40%). Labs and capstone: 180 min (60%). Breaks are not counted. Day 1: Segments 1–8 = 240 min; Day 2: Segments 9–10 = 60 min.
 
 ## SEGMENT 1: Opening — From Tickets to Outcomes (20 min)
 

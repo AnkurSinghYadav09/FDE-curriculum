@@ -1,6 +1,6 @@
 # Lecture Script: Technology Selection and Solution Architecture
 
-> **Instructor reference.** Phase 2: Decide and build (Focus area 2), Module 4 | Duration: 5 hours (3 h concepts and demos, 2 h hands-on) | Previous script: [Module 3 — Project Guardrails, .md Files and AI-Assisted Development](../Phase-1/Module-03-Guardrails-and-AI-Assisted-Development.md)
+> **Instructor reference.** Phase 2: Decide and build (Focus area 2), Module 4 | Duration: 5 hours (3 h concepts and demos, 2 h hands-on), run as Day 5 (4 h, Segments 1–10) and Day 6 (1 h, Segments 11–12) | Previous script: [Module 3 — Project Guardrails, .md Files and AI-Assisted Development](../Phase-1/Module-03-Guardrails-and-AI-Assisted-Development.md)
 
 ## Session overview
 
@@ -35,7 +35,7 @@
 | SEGMENT 11: Lab 3 — C4, ADRs and Cost | 35 min | 4:35 | Hands-on |
 | SEGMENT 12: CI-4 Design Review and Wrap-Up | 25 min | 5:00 | Hands-on + close |
 
-Concepts and demos: 180 min (60%, including the 10-minute close). Labs and design review: 120 min (40%), as the module specifies. Breaks are not counted.
+Concepts and demos: 180 min (60%, including the 10-minute close). Labs and design review: 120 min (40%), as the module specifies. Breaks are not counted. Day 5: Segments 1–10 = 240 min; Day 6: Segments 11–12 = 60 min.
 
 ## SEGMENT 1: Opening — Choosing on Purpose; Selection Inputs (20 min)
 

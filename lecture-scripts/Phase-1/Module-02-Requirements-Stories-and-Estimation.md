@@ -1,6 +1,6 @@
 # Lecture Script: Requirements Gathering, User Stories and Estimation
 
-> **Instructor reference.** Phase 1 (Focus area 1), Module 2 | Duration: 5 hours (2 h concepts and demos, 3 h hands-on) | Previous script: [Module 1 — The FDE Role and Business Domain Understanding](Module-01-FDE-Role-and-Business-Domain.md)
+> **Instructor reference.** Phase 1: Business domain, requirements and guardrails (Focus area 1), Module 2 | Duration: 5 hours (2 h concepts and demos, 3 h hands-on), run as Day 2 (3 h, Segments 1–6, 2 h 52 min of content) and Day 3 (2 h, Segments 7–11, 2 h 08 min of content) | Previous script: [Module 1 — The FDE Role and Business Domain Understanding](Module-01-FDE-Role-and-Business-Domain.md)
 
 ## Session overview
 
@@ -32,7 +32,7 @@
 | SEGMENT 10: Lab 4 — Planning Poker, MoSCoW, Sprint 1 Goal | 40 min | 4:40 | Hands-on |
 | SEGMENT 11: CI-2 Review, Summary and Wrap-Up | 20 min | 5:00 | Hands-on + close |
 
-Concepts and demos: 120 min (40%, including the 5-minute close). Labs and capstone: 180 min (60%). Breaks are not counted.
+Concepts and demos: 120 min (40%, including the 5-minute close). Labs and capstone: 180 min (60%). Breaks are not counted. Day 2: Segments 1–6 = 172 min; Day 3: Segments 7–11 = 128 min (the syllabus plans 180 + 120; the split is at the nearest segment boundary).
 
 ## SEGMENT 1: Opening — From Understanding to Commitments; SDLC Models (18 min)
 

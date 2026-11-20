@@ -1,6 +1,6 @@
 # Lecture Script: Project Guardrails, .md Files and AI-Assisted Development
 
-> **Instructor reference.** Phase 1 (Focus area 1), Module 3 | Duration: 6 hours (3 h concepts and demos, 3 h hands-on) | Previous script: [Module 2 — Requirements Gathering, User Stories and Estimation](Module-02-Requirements-Stories-and-Estimation.md)
+> **Instructor reference.** Phase 1: Business domain, requirements and guardrails (Focus area 1), Module 3 | Duration: 6 hours (3 h concepts and demos, 3 h hands-on), run as Day 3 (2 h, Segments 1–5) and Day 4 (4 h, Segments 6–14) | Previous script: [Module 2 — Requirements Gathering, User Stories and Estimation](Module-02-Requirements-Stories-and-Estimation.md)
 
 ## Session overview
 
@@ -38,7 +38,7 @@
 | SEGMENT 13: CI-3 — Walking Skeleton to Dev | 30 min | 5:50 | Hands-on |
 | SEGMENT 14: Summary and Wrap-Up | 10 min | 6:00 | Concept |
 
-Concepts and demos: 180 min (50%). Labs and capstone: 180 min (50%), as the module specifies. Breaks are not counted.
+Concepts and demos: 180 min (50%). Labs and capstone: 180 min (50%), as the module specifies. Breaks are not counted. Day 3: Segments 1–5 = 120 min; Day 4: Segments 6–14 = 240 min.
 
 ## SEGMENT 1: Opening — Why Guardrails (15 min)
 
