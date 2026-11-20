@@ -34,7 +34,7 @@ Source of truth for modules, durations and capstone increments: the program syll
 | Module | Duration (concept / hands-on) | Capstone increment | Script |
 | --- | --- | --- | --- |
 | 11. Logging, Log File Analysis and Observability | 6 h (2.5 / 3.5) | CI-11: logging standard implemented, centralised logs, end-to-end traces, dashboards, alerts and a log analysis report | [Module-11](Phase-4/Module-11-Logging-and-Observability.md) |
-| 12. Application Security and DevSecOps | 6 h (2.5 / 3.5) | CI-12: SSO with MFA, RBAC, secrets via managed identity, security scans in pipeline | Not yet written |
+| 12. Application Security and DevSecOps | 6 h (2.5 / 3.5) | CI-12: SSO with MFA, RBAC and policy checks, secrets via managed identity, security logging, DevSecOps pipeline with no critical or high findings | [Module-12](Phase-4/Module-12-Application-Security-DevSecOps.md) |
 | 13. Testing and Non-Functional Testing | 7 h (3 / 4) | CI-13: functional suites plus load, stress, soak, resilience and accessibility reports | Not yet written |
 
 ## Phase 5: Deploy, operate and support (Focus area 4)
@@ -70,3 +70,4 @@ The scripts follow the Meridian case established in Modules 1–5, which differs
 | 0008 | Audit retention and archiving (homework) | 8 |
 | 0009 | Shared state for scale-out: caches, SignalR backplane, keys (homework) | 9 |
 | 0010 | Server versus serverless, per workload (Lab 4) | 10 |
+| 0011 | Identity and access: Entra ID, BFF tokens, roles, managed identity (homework) | 12 |
